@@ -10,4 +10,5 @@
 <br>
 <p>Git, Github, VsCode</p>
 <br>
-![Dev sorteio 1](https://github.com/OseiasAbraoBarbosa/PROJETO-DEVSORTEIO/assets/148599807/2daf0f94-eb1f-4358-b86f-b37db396e40d)
+
+![Dev sorteio 1](https://github.com/OseiasAbraoBarbosa/PROJETO-DEVSORTEIO/assets/148599807/cedc0914-afe6-4fab-88a4-ac50bb50535d)
